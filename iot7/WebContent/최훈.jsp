@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>New Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>새로운 페이지입니다.</h1>
+새로운페이지
 </body>
 </html>
